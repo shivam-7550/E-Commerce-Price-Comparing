@@ -1,0 +1,1 @@
+This is an E-Commerce web application for comparing the prices of the products from different type of e-commerce application and show all prices of the product. so that user can see the lowest price of the product and buy that product with minimal price.
