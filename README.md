@@ -22,9 +22,9 @@
 *REST API integration between frontend and backend
 
 <h3>🛠️ Technologies Used</h3>
-Frontend: React.js / HTML / CSS<br>
-Backend: Node.js / Express or Spring Boot<br>
-Database: MongoDB / MySQL<br>
+Frontend: HTML / CSS<br>
+Backend: JavaScript<br>
+Database: MongoDB<br>
 Machine Learning: Python, Pandas, NumPy, Scikit-learn<br>
 Model Types: Linear Regression, Random Forest, or XGBoost
 
